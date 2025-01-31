@@ -8,6 +8,7 @@
         "watch": "ng build --watch --configuration development",
         "format": "prettier --write \"**/*.{js,mjs,ts,mts,d.ts,html}\" --cache",
         "test": "ng test",
+        "serve:ssr:sakai-ng": "node dist/sakai-ng/server/server.mjs",
         "build-prod": "ng build --configuration production"
     },
     "private": true,
@@ -20,6 +21,7 @@
         "@angular/platform-browser": "^19.0.0",
         "@angular/platform-browser-dynamic": "^19.0.0",
         "@angular/router": "^19.0.0",
+        "@netlify/angular-runtime": "^2.2.1",
         "@primeng/themes": "^19.0.5",
         "chart.js": "4.4.2",
         "primeclt": "^0.1.5",
