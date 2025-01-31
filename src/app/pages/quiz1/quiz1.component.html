@@ -1,1 +1,53 @@
-<p>quiz1 works!</p>
+<div class="quiz-container p-4" *ngIf="!showResults">
+    <h2 class="text-primary">Pergunta {{ currentQuestionIndex + 1 }} de {{ questions.length }}</h2>
+
+    <p-card class="w-full">
+        <ng-template pTemplate="header">
+            <h3 class="text-lg font-bold">{{ getEnunciado() }}</h3>
+        </ng-template>
+
+        <ng-template pTemplate="content">
+            <div class="p-grid p-dir-col gap-2">
+                <!-- Lista de alternativas -->
+                <div *ngFor="let option of questions[currentQuestionIndex]?.alternatives; let i = index">
+                    <button
+                        pButton
+                        severity="secondary"
+                        class="quiz-option"
+                        type="button"
+                        [label]="getLetter(i) + '. ' + option"
+                        (click)="selectAnswer(i)"
+                        [ngClass]="{
+                            selected: selectedAnswerIndex === i && !isAnswerChecked,
+                            correct: isAnswerChecked && i === questions[currentQuestionIndex].correctAnswer,
+                            incorrect: isAnswerChecked && selectedAnswerIndex === i && i !== questions[currentQuestionIndex].correctAnswer
+                        }"
+                    ></button>
+                </div>
+
+                <div class="flex justify-content-between mt-3">
+                    <p-button label="Questão Anterior" icon="pi pi-arrow-left" severity="secondary" [disabled]="currentQuestionIndex === 0" (click)="lastQuestion()"> </p-button>
+
+                    <p-button label="Verificar Resposta" icon="pi pi-check" severity="success" [disabled]="selectedAnswerIndex === null" (click)="checkAnswer()"> </p-button>
+
+                    <p-button label="Próxima" icon="pi pi-arrow-right" severity="warn" [disabled]="!isAnswerChecked" (click)="nextQuestion()"> </p-button>
+                </div>
+
+                <p-message *ngIf="isAnswerChecked" severity="info"> <strong>Explicação:</strong> {{ getExplanation() }} </p-message>
+            </div>
+        </ng-template>
+    </p-card>
+</div>
+
+<!-- Tela de Resultados -->
+<div class="results-container p-4" *ngIf="showResults">
+    <h2 class="text-primary">Resultados</h2>
+    <p class="text-lg">
+        Você acertou <strong>{{ score }}</strong> de <strong>{{ questions.length }}</strong> perguntas.
+    </p>
+    <p class="text-lg">
+        Você errou <strong>{{ questions.length - score }}</strong> perguntas.
+    </p>
+
+    <p-button label="Reiniciar Quiz" icon="pi pi-refresh" severity="primary" (click)="restartQuiz()"></p-button>
+</div>

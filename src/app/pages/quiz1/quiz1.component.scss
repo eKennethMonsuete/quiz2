@@ -1,0 +1,22 @@
+.quiz-option {
+    width: 100%;
+    margin: 5px 0;
+    transition:
+        background-color 0.3s ease,
+        color 0.3s ease;
+
+    &.selected {
+        background-color: #e0f7fa !important; /* Azul claro */
+        color: #000 !important;
+    }
+
+    &.correct {
+        background-color: #4caf50 !important; /* Verde */
+        color: white !important;
+    }
+
+    &.incorrect {
+        background-color: #f44336 !important; /* Vermelho */
+        color: white !important;
+    }
+}

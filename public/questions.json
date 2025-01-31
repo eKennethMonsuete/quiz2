@@ -1,0 +1,556 @@
+[
+  {
+    "enunciado": "**01    Caio,  45  anos  de  idade,  investidor  qualificado  pelas  regras  da  Comissão  de Valores Mobiliários (CVM), possui a seguinte carteira de investimentos:**",
+    "alternatives": [
+      "I, apenas",
+      "II, apenas.",
+      "II e III, apenas.",
+      "I, II e III"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "enunciado": "**02  Considere as seguintes afirmativas abaixo em relação a remuneração de um profissional CFP®: I – Pode receber de acordo com a performance da carteira do cliente. II – Pode receber através de indicação e venda de produtos. III – Pode receber um salário fixo dos clientes. Está correto o que se afirma em:**",
+    "alternatives": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Os métodos de remuneração incluem os mencionados em I, II e III, de acordo com as diretrizes do CFP®."
+  },
+  {
+    "enunciado": "**03    Um  investidor  possui  R$  6  milhões  em  investimentos  financeiros  (valor  já líquido de Imposto de Renda) e deseja comprar uma casa de campo avaliada em R$ 500.000,00.  Ele  possui  gastos  anuais  de  R$  250.000,00  e  projeta  inflação  anual  de  4%. Considerando a aquisição da casa de campo e Imposto de Renda de 20% sobre ganhos de capital, a taxa de retorno nominal anual que sua carteira de investimentos deve ter como objetivo é de aproximadamente:**",
+    "alternatives": ["5,68%", "8,73%", "10,47%", "10,91%"],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "enunciado": "**04    Dentre  as  alternativas  abaixo,  com  base  nos  padrões  da  PLANEJAR (Associação Brasileira de Planejadores Financeiros), aquela que não faz parte das etapas de elaboração de um planejamento financeiro pessoal é:**",
+    "alternatives": [
+      "Identificar os problemas legais do cliente que afetem o plano financeiro pessoal.",
+      "Medir o progresso em direção à conquista dos objetivos do cliente.",
+      "Executar a implementação das recomendações apresentadas ao cliente.",
+      "Realizar análise fundamentalista ou técnica de ações de companhias brasileiras"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "enunciado": "**05  Um investidor de 35 anos foi recentemente promovido a gerente regional de vendas de uma empresa comercial nacional. Ele não possui dívidas de cartão de crédito, não  tem empréstimos  e  sua  casa  está  quitada.  Ele  recebe  um salário  anual  de  R$ 250.000,00 e suas despesas pessoais anuais são de R$ 100.000,00. Sua atual carteira tem R$  1.000.000,00  em  ativos  financeiros  e  ele  deseja  que  esta  carteira  gere  receitas suficientes  para  cobrir  suas  despesas  anuais,  considerando  sempre  o  mesmo  poder  de compra.  Ele  também  afirma  que  prefere  não  correr  riscos  elevados.  Sobre  a  sua capacidade  para  correr  riscos,  pode-se  afirmar  que  é:**",
+    "alternatives": [
+      "alta, porque é capaz de poupar dinheiro e seu prazo de investimento é longo.",
+      "alta, pois todo investidor que não possui dívidas é capaz de tomar risco.",
+      "média, porque prefere não correr riscos elevados.",
+      "baixa, porque se diz conservador."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A capacidade de correr riscos é alta devido à sua capacidade de poupar e ao longo prazo de investimento, apesar da sua preferência por não correr riscos elevados."
+  },
+  {
+    "enunciado": "**06    Um  profissional  CFP®  é  contratado  para  realizar  o  planejamento  de  duas irmãs, Maria de 32 anos e Cecília de 38 anos, sendo que as duas possuem uma renda média de R$ 30 mil por mês advindo do seu emprego. Maria possui um apartamento e um carro  financiado,  gosta  de  realizar  muitas  viagens  com gastos  extravagantes,  tendo  que muitas  vezes  financiar  o  seu  cartão  de  crédito.  Já  Cecília  planilha  todos  os  seus  gastos, morando no seu apartamento quitado, utiliza apenas uma parcela da sua renda para lazer e mesmo tendo um perfil arrojado, ela diz que todo o seu dinheiro está em poupança neste momento. Abaixo seguem as informações financeiras de ambas:**",
+    "alternatives": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "enunciado": "**07  Ao conversar com um cliente pela primeira vez, seria apropriado coletar as seguintes informações para o planejamento financeiro: I – Objetivos que o cliente tem para a sua aposentadoria. II – Referentes a problemas de saúde do cliente. III – Sobre algum inconveniente em relação a idade dos seus sucessores. Está correto o que se afirma em:**",
+    "alternatives": [
+      "I, apenas.",
+      "II, apenas.",
+      "I e II, apenas.",
+      "I, II e III."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Todas as informações mencionadas em I, II e III são relevantes para o planejamento financeiro."
+  },
+  {
+    "enunciado": "**08    Responsabilidade  Profissional,  Prática,  Comunicação  e  Cognição  são exemplos  de:**",
+    "alternatives": [
+      "Habilidades que o profissional deve ter para aconselhar os clientes em trabalhos",
+      "Competências que o profissional deve ter para aconselhar os clientes em",
+      "Habilidades opcionais que o profissional deve ter para aconselhar os clientes em",
+      "Competências opcionais que o profissional deve ter para aconselhar os clientes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Responsabilidade Profissional, Prática, Comunicação e Cognição são exemplos de habilidades que o profissional deve ter."
+  },
+  {
+    "enunciado": "**09    Na  elaboração  do  um  planejamento  financeiro  para  um  cliente,  um profissional  CFP®,  na  fase  de  Síntese,  deverá: I – Formular estratégias de gestão de risco. II – Determinar as atitudes e o nível de sofisticação financeira do cliente. III – Avaliar as vantagens e desvantagens de cada estratégia. Está correto o que se afirma apenas em:**",
+    "alternatives": ["I e II", "I e III", "II e III", "I, II e III"],
+    "correctAnswer": 1,
+    "explanation": "Na fase de síntese, o profissional deve formular estratégias de gestão de risco e avaliar as vantagens e desvantagens de cada estratégia."
+  },
+  {
+    "enunciado": "**10  De acordo com o Perfil de Competências do Planejador Financeiro da Planejar, é  uma  das  habilidades  profissionais  requeridas  de  um  profissional  de  planejamento financeiro  na  área  denominada  Comunicação:**",
+    "alternatives": [
+      "Estabelecer confiança em todas as relações profissionais.",
+      "Aprender continuamente para assegurar a atualização de seu conhecimento e",
+      "Apresentar raciocínios lógicos e persuasivos.",
+      "Cumprir as leis e regulamentos pertinentes a serviços financeiros."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Apresentar raciocínios lógicos e persuasivos é uma habilidade profissional na área de comunicação."
+  },
+  {
+    "enunciado": "**11  De acordo com o Perfil de Competências do Planejador Financeiro da Planejar, é  uma  das  habilidades  profissionais  requeridas  de  um  profissional  de  planejamento financeiro  na  área  denominada  Cognição:**",
+    "alternatives": [
+      "Aplicar métodos ou fórmulas matemáticas conforme adequadas.",
+      "Não se apressar para entender os pontos levantados.",
+      "Demonstrar discernimento ético, honestidade intelectual e imparcialidade.",
+      "Seguir o código profissional de ética e os padrões da prática."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aplicar métodos ou fórmulas matemáticas conforme adequadas é uma habilidade profissional na área de cognição."
+  },
+  {
+    "enunciado": "**12  Uma competência essencial de um planejador financeiro CFP® é a de que, na fase de Síntese, ele seja capaz de**",
+    "alternatives": [
+      "considerar as inter-relações entre os componentes de planejamento financeiro.",
+      "medir o progresso em direção à conquista dos objetivos do cliente.",
+      "identificar se as relações familiares podem dificultar as estratégias de",
+      "determinar o ciclo adequado de revisão do plano financeiro."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Na fase de síntese, o planejador deve ser capaz de determinar o ciclo adequado de revisão do plano financeiro."
+  },
+  {
+    "enunciado": "**13   Um profissional  CFP® trabalha  em uma instituição  financeira  como gerente de  relacionamento.   A  área  de  finanças  do  banco  faz  uma  apresentação  aos  gerentes  e recomenda  a  venda  de  um  COE.  O  profissional  assistiu  a  apresentação  e,  por  não  ter compreendido alguns detalhes técnicos do produto, não se sente confortável em oferecer essa operação aos clientes. Para não infringir o código de ética da Planejar, ele deve:**",
+    "alternatives": [
+      "Se recusar a ofertar o produto aos clientes;",
+      "Ofertar a operação a todos cliente, pois confia no Banco.",
+      "Buscar mais conhecimento acerca da operação antes de iniciar as ofertas.",
+      "Procurar somente o clientes com perfil de risco compatível e iniciar a oferta da"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Para não infringir o código de ética, o profissional deve buscar mais conhecimento sobre a operação antes de oferecê-la aos clientes."
+  },
+  {
+    "enunciado": "**14  O princípio ético seguido por um Planejador CFP® que faz recomendações de forma pragmática, isenta, transparente e respaldada em princípios técnicos é:**",
+    "alternatives": [
+      "Imparcialidade",
+      "Objetividade",
+      "Profissionalismo",
+      "Competência"
+    ],
+    "correctAnswer": 1,
+    "explanation": "O princípio ético de objetividade é seguido quando as recomendações são pragmáticas, isentas, transparentes e respaldadas em princípios técnicos."
+  },
+  {
+    "enunciado": "**15  O Profissional CFP® que descumprir os Princípios e Regras estabelecidos no Código estarão sujeitos à imposição das seguintes penalidades: I – Advertência privada do Conselho de Normas Éticas, através de reprimenda por escrito, não  publicada,  mas  apontada  nos  registros  da  Planejar  e  enviada  diretamente  ao profissional CFP®. II – Advertência pública do Conselho de Normas Éticas, a ser divulgada nos meios de comunicação da Planejar. III – Proibição temporária, divulgada nos meios de comunicação da Planejar, do uso da Marca CFP®. IV – Revogação do direito de uso das Marcas e exclusão do quadro de Profissionais CFP® certificados, divulgada nos meios de comunicação da Planejar. Está correto o que se afirma em:**",
+    "alternatives": [
+      "II e IV, apenas.",
+      "I, III e IV, apenas.",
+      "I, II e III, apenas.",
+      "I, II, III e IV."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Todas as penalidades mencionadas em I, II, III e IV são aplicáveis em caso de descumprimento dos princípios e regras."
+  },
+  {
+    "enunciado": "**16    De  acordo  com  o  Art.  24º,  o  profissional  CFP®  e  o  Associado  que descumprirem qualquer um dos Princípios e/ou Regras estabelecidos na Seção III  do Código  de  Conduta  Ética  e  Responsabilidade  Profissional  da  Planejar,  estarão  sujeitos  à imposição de penalidades. Os critérios objetivos na valoração da pena são a aferição de dolo ou culpa do denunciado, bem como a configuração das circunstâncias atenuantes ou agravantes. Podemos afirmar que são situações de circunstâncias atenuantes:**",
+    "alternatives": [
+      "A acumulação de mais de uma infração cometida pela mesma conduta e motivo",
+      "O dolo de lesão ou vantagem econômica.",
+      "A confissão espontânea e arrependimento posterior eficaz.",
+      "O motivo fútil e dolo de lesão ou vantagem econômica."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A confissão espontânea e o arrependimento posterior eficaz são considerados circunstâncias atenuantes."
+  },
+  {
+    "enunciado": "**17  Victório, profissional CFP®, é casado com Marina, diretora de uma instituição financeira. Ele tem uma linda família, com 2 filhos, 2 tios e alguns sobrinhos. Mesmo tendo muitos  ativos  mobiliários,  sendo  considerado  inclusive  como  um  investidor  profissional, nesse  momento,  Victório  está  com  problemas  de  liquidez  e  necessita  tomar  um empréstimo para cobrir suas obrigações de curto prazo. Conforme o código de ética da Planejar, caso todos os familiares sejam seus clientes, Victório: I – poderá tomar dinheiro emprestado da Marina, pois ela é sua esposa. II – poderá tomar dinheiro emprestado dos seus sobrinhos, pois são seus parentes de até terceiro grau. III  –  não  poderá  tomar  dinheiro  emprestado da  Marina,  pois  ela  é  diretora  de  uma Instituição Financeira. IV – não poderá tomar dinheiro emprestado dos tios, pois são seus parentes de terceiro grau. Está correto o que se afirmar em:**",
+    "alternatives": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "I e IV, apenas.",
+      "II e III, apenas."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Victório não poderá tomar dinheiro emprestado da Marina, pois ela é diretora de uma instituição financeira, e não poderá tomar dinheiro emprestado dos tios, pois são seus parentes de terceiro grau."
+  },
+  {
+    "enunciado": "**18    Neto,  planejador  financeiro  CFP®,  atende  uma  base  de  clientes  de aproximadamente 80 investidores.  Um desses seus investidores,  fez  uma denúncia à Planejar, dizendo que Neto informou ser especialista em direito tributário internacional, sendo formado nos Estados Unidos,  o que não é verídico.  Nos autos da Planejar,  já constava que Neto era reincidente em relação a infração dos princípios éticos, mas sendo por outro motivo. Diante das alternativas abaixo, Neto deverá ser penalizado da seguinte forma:**",
+    "alternatives": [
+      "Por ser uma infração gravíssima, poderá ser suspenso temporariamente do",
+      "Por ser uma infração grave, será advertido publicamente pelo Conselho de Normas Éticas, a ser divulgada nos meios de comunicação da Planejar.",
+      "Como foram infrações diferentes, será considerado como infração leve, sendo advertido privadamente pelo Conselho de Normas Éticas, através de reprimenda por escrito, não publicada, mas apontada nos registros da Planejar e enviada diretamente ao denunciado.",
+      "Apenas Multa, que não poderá exceder a 50 vezes o valor da respectiva anuidade vigente, por ocasião da infração, a ser aplicada em situações em que se verificar prejuízos pecuniários à Planejar, clientes, entidades de mercado, outros Planejadores CFP® ou Associados, e/ou terceiros interessados, em caráter cumulativo."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Por ser uma infração gravíssima e por Neto ser reincidente, ele poderá ser suspenso temporariamente ou ter revogado o direito de uso das Marcas CFP®, sendo excluído do quadro de associados."
+  },
+  {
+    "enunciado": "**19  ] Em conformidade com o Código de Ética e Responsabilidade Profissional da Planejar, o profissional CFP®, será punido com falta gravíssima, se infringir as seguintes regras: I – Oferecer a seu cliente, com total conhecimento, investimentos fraudulentos. II – Fornecer informações falsas com relação às suas qualificações ou serviços. III – Emprestar dinheiro para seu cliente, sem qualquer parentesco, uma vez que estaria ajudando ao cliente por cobrar menos juros do que a instituição financeira. IV  –  Não supervisionar  de forma prudente e  responsável  quaisquer  subordinados ou terceiros a quem delegue responsabilidades por quaisquer serviços para o cliente. Está correto o que se afirmar em:**",
+    "alternatives": [
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I e IV, apenas.",
+      "I, II, III e IV."
+    ],
+    "correctAnswer": 0,
+    "explanation": "As infrações gravíssimas incluem oferecer investimentos fraudulentos e fornecer informações falsas sobre qualificações ou serviços."
+  },
+  {
+    "enunciado": "**20    Segundo  a  Lei  Complementar  nº  179,  de  24  de  fevereiro  de  2021,  a autonomia legal dada ao Bacen, exigirá maior transparência da instituição, o que poderá ser alcançado por meio de um conjunto de instrumentos, sendo que um deles é que o presidente do Banco Central deverá apresentar, em arguição pública, no primeiro e no segundo semestre de cada ano, relatório de inflação e relatório de estabilidade financeira, explicando  as  decisões  tomadas  no  semestre  anterior.  Este  relatório  deverá  ser apresentado no:**",
+    "alternatives": [
+      "Conselho Monetário Nacional",
+      "Superior Tribunal Federal",
+      "Comitê de Políticas Monetárias",
+      "Senado Federal"
+    ],
+    "correctAnswer": 3,
+    "explanation": "O relatório deve ser apresentado no Senado Federal."
+  },
+  {
+    "enunciado": "**21  A lei 4595/64 (e suas atualizações), dispõe sobre a Política e as Instituições Monetárias,  Bancárias  e  Creditícias,  Cria  o  Conselho Monetário  Nacional  e  dá outras providências. Diante da lei, a política do Conselho Monetário Nacional objetivará: I – Adaptar o volume dos meios de pagamento ás reais necessidades da economia nacional e seu processo de desenvolvimento. II  –  Propiciar  o  aperfeiçoamento  das  instituições  e  dos  instrumentos  financeiros,  com vistas  à  maior  eficiência  do  sistema  de  pagamentos  e  de  mobilização  de  recursos. III – Coordenar as políticas monetária, creditícia, orçamentária, fiscal e da dívida pública, interna e externa. Está correto o que se afirma em:**",
+    "alternatives": [
+      "I, apenas.",
+      "II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A política do Conselho Monetário Nacional visa coordenar políticas monetária, creditícia, orçamentária, fiscal e da dívida pública, e propiciar o aperfeiçoamento das instituições e instrumentos financeiros."
+  },
+  {
+    "enunciado": "**22  O Banco Central do Brasil autoriza o funcionamento de instituição financeira como banco múltiplo , desde que I – a carteira de desenvolvimento seja operada por banco público. II – capte depósito à vista por intermédio da carteira de banco de investimento. III – uma das carteiras obrigatórias seja a de crédito, financiamento e investimento. Está correto o que se afirma em**",
+    "alternatives": [
+      "I, apenas.",
+      "II e III, apenas.",
+      "I e II, apenas.",
+      "I, II e III."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O Banco Central do Brasil autoriza o funcionamento de instituição financeira como banco múltiplo, desde que a carteira de desenvolvimento seja operada por banco público."
+  },
+  {
+    "enunciado": "**23  Uma recente distribuição pública de ações diferenciou-se das demais por ter sido destinada exclusivamente a \"Investidores Qualificados\". Nessa categoria, encontram-se: I – Os investidores vinculados à instituição-líder, as demais instituições participantes da oferta e à empresa emissora. II – Fundos de Pensão e Seguradoras. III – Pessoas físicas e jurídicas com investimentos financeiros superiores a R$ 1.000.000,00 e que atestem, por escrito, a sua condição. Está correto o que se afirma APENAS em:**",
+    "alternatives": ["II e III.", "I e III.", "III.", "I e II."],
+    "correctAnswer": 0,
+    "explanation": "Investidores qualificados incluem fundos de pensão, seguradoras e pessoas físicas e jurídicas com investimentos financeiros superiores a R$ 1.000.000,00 que atestem sua condição por escrito."
+  },
+  {
+    "enunciado": "**24  Gustavo é analista de valores mobiliários (CNPI)  autorizado pela CVM e recebeu uma proposta para ser sócio de um escritório de investimentos, para atuar como assessor de investimentos. Após Gustavo estar devidamente registrado na CVM como Gestor de Recursos, ele:**",
+    "alternatives": [
+      "Poderá exercer as duas funções, mas precisará pedir autorização da CVM.",
+      "Poderá exercer as duas funções e não precisará pedir autorização da CVM.",
+      "Poderá exercer as duas funções, desde que informe a todos os clientes que",
+      "Não poderá exercer as duas funções."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Gustavo não poderá exercer as duas funções."
+  },
+  {
+    "enunciado": "**25    Conforme  a  Circular  nº  3.506  do  Banco  Central,  que  dispõe  sobre  a metodologia de apuração da taxa de câmbio real/dólar divulgada pelo Banco Central do Brasil (PTAX), o número de consultas realizadas por dia aos dealers serão:**",
+    "alternatives": [
+      "duas consultas por dia.",
+      "quatro consultas por dia.",
+      "cinco consultas por dia.",
+      "dez consultas por dia."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A metodologia de apuração da taxa de câmbio PTAX envolve quatro consultas diárias aos dealers."
+  },
+  {
+    "enunciado": "**26  O PIB é a principal informação sobre o nível de atividade econômica. Ele é um indicador econômico que está relacionado com a atividade econômica de um lugar durante um  determinado  período,  podendo  ser  calculado  por  diversas  óticas.  Diante  disso, podemos afirmar que a ótica do dispêndio corresponde à:**",
+    "alternatives": [
+      "soma dos valores  agregados líquidos dos setores primário, secundário e",
+      "soma de todas as rendas auferidas pelos agentes do país ou região em análise, sendo essas rendas contabilizadas por salários, juros, lucros e alugueis.",
+      "soma do consumo, compras do governo, investimento, exportações líquidas e variações de estoque.",
+      "todos os bens e serviços produzidos pelos cidadãos de um determinado país, incluindo também a produção realizada por empresas brasileiras que atuam no exterior."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A ótica do dispêndio do PIB corresponde à soma do consumo, compras do governo, investimento, exportações líquidas e variações de estoque."
+  },
+  {
+    "enunciado": "**27  Os depósitos ou recolhimento compulsórios realizados pelo Banco Central do Brasil (BACEN) I – são um mecanismo de combate à inflação e de manutenção da estabilidade financeira. II – contribuem para a fluidez do Sistema Brasileiro de Pagamentos (SPB). III – não incidem sobre os recursos de depósitos de poupança. Está correto e que se afirma em:**",
+    "alternatives": [
+      "I e II, apenas.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Os depósitos compulsórios são um mecanismo de combate à inflação e manutenção da estabilidade financeira, além de contribuírem para a fluidez do Sistema Brasileiro de Pagamentos (SPB)."
+  },
+  {
+    "enunciado": "**28  Uma subsidiaria brasileira de empresa norte-americana, após receber um aporte de capital de sua matriz, importou um bem de capital produzido na Alemanha e, desse país, foi embarcado e transportado por uma companhia aérea italiana para o Brasil. A subsidiária pagou o frete e o seguro do transporte no exterior. Metade do corpo diretivo dessa empresa é composto por expatriados, que optaram por receber seus salários nos seus países de origem. Com base nessas informações, a forma pela qual algumas dessas operações  são  classificadas  no  Balanço  de  Pagamentos  do  Brasil,  dentre  as  alternativas apresentadas, é a de que:**",
+    "alternatives": [
+      "A remessa ao exterior dos recursos para o pagamento do frete e seguro será",
+      "A remessa dos salários dos expatriados, para os países de origem, será",
+      "O recurso enviado para o aporte de capital, realizado pela matriz, será",
+      "O recurso enviado para o aporte de capital, realizado pela matriz, será"
+    ],
+    "correctAnswer": 2,
+    "explanation": "O recurso enviado para o aporte de capital pela matriz é contabilizado na Conta Financeira do Balanço de Pagamentos do Brasil."
+  },
+  {
+    "enunciado": "**29  Em um presente fórum global,  presidentes de diversos bancos centrais, demonstraram estar preocupados com o excesso de endividamento e o baixo crescimento, e em alguns casos, perspectiva de crescimento negativo das economias de determinados países emergentes para os próximos anos. Caso esse cenário venha a se materializar no futuro, espera-se que: I – As agências de classificação de risco, diminuam o rating dos países endividados. II  –  Ocorra uma desvalorização das moedas desses países em relação ao dólar norte americano. III – Os preços dos títulos da dívida pública desses países, aumentem. Está correto o que se afirma apenas em:**",
+    "alternatives": ["I e II", "I e III", "II e III", "I, II e III"],
+    "correctAnswer": 0,
+    "explanation": "Em um cenário de endividamento excessivo e baixo crescimento, espera-se que as agências de classificação de risco diminuam o rating dos países endividados e que ocorra uma desvalorização das moedas desses países em relação ao dólar."
+  },
+  {
+    "enunciado": "**30  Considere as seguintes sentenças sobre o conceito de estrutura a termo de taxa de juros (ETTJ): I – Para termos uma estrutura a termo de taxa de juros com inclinação constante igual a zero, as taxas de curto e de longo prazo devem ser iguais. II – Caso o mercado brasileiro apresente uma estrutura a termo de taxa de juros com inclinação negativa ao longo do seu tempo, significa que a taxa de juros real do Brasil é negativa. Desta forma, podemos afirmar que:**",
+    "alternatives": [
+      "somente a afirmativa I está correta.",
+      "somente a afirmativa II está correta.",
+      "as afirmativas I e II estão corretas.",
+      "nenhuma alternativa está correta."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Para uma estrutura a termo de taxa de juros com inclinação constante igual a zero, as taxas de curto e longo prazo devem ser iguais."
+  },
+  {
+    "enunciado": "**31    Antônio  financiou  integralmente  um  imóvel  pela  Tabela  Price  no  banco  no valor  de  R$ 800 mil.  Por  ele  ser  um excelente  cliente,  a  taxa  de  juros  do  financiamento para 240 meses,  ficou em 1% ao mês.  Após ter  pago 48 parcelas,  Antônio lhe pergunta: “Caso eu amortize extraordinariamente R$ 100 mil,  mantendo o mesmo prazo ainda, quanto  ficaria  a  minha  nova  parcela  aproximadamente?”.  Desta  forma,  você  deveria responder  corretamente:**",
+    "alternatives": [
+      "R$ 7.635,00",
+      "R$ 7.996,00",
+      "R$ 8.345,00",
+      "R$ 8.809,00"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "enunciado": "**32  Uma empresa de petróleo, tem a concessão para exploração nas bacias de Santos por mais de um século. Durante os dois primeiros anos, a empresa não poderá explorar por motivos ambientais. Após esse período, a empresa estima que terá lucros médios de R$ 5.000.000,00 por ano. Considerando um custo de oportunidade do capital de 20% a.a. e analisando apenas esses dados, o valor desta concessão é de:**",
+    "alternatives": [
+      "R$ 16.222.988,39",
+      "R$ 17.361.111,11",
+      "R$ 18.669.555,38",
+      "R$ 19.988.781,81"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "enunciado": "**33  Um título no valor de R$ 100.000,00 vence em 294 dias úteis a partir de hoje (base anual: 252 dias úteis) e seu titular deseja descontá-lo na data atual. Considerando uma taxa de juros de 2% ao mês e o desconto na modalidade bancária simples, a taxa efetiva de juros dessa operação seria de aproximadamente:**",
+    "alternatives": [
+      "24,00% ao ano.",
+      "32,52% ao ano.",
+      "33,33% ao ano.",
+      "38,89% ao ano."
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "enunciado": "**34  Seja a taxa spot de um ano de 15% ao ano e a taxa spot de dois anos de 20% ao ano, a taxa a termo entre os prazos 150 e 300 dias úteis é de aproximadamente:** *  Dado: Considere ano com 252 dias úteis",
+    "alternatives": [
+      "5,82% ao ano",
+      "10,45% ao ano.",
+      "18,17% ao ano.",
+      "25,22% ao ano."
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "enunciado": "Rafael está muito feliz pois acabou de descobrir que vai ser pai. Após o nascimento  de  seu  filho,  ele  decidiu  iniciar  um  investimento  para  poder  arcar  com  as despesas da faculdade do filho daqui a 18 anos, pois ele estima uma custo mensal de R$ 4.400,00 durante 5 anos. Considerando uma taxa líquida de 0,5% a.m, para Rafael atingir seu objetivo, ele deverá investir mensalmente o valor de:",
+    "alternatives": ["R$ 384,28", "R$ 584,63", "R$ 587,56", "R$ 681,55"],
+    "correctAnswer": 2,
+    "explanation": null
+  },
+  {
+    "enunciado": "Rafael deseja fazer um financiamento imobiliário e analisou duas propostas: uma pela tabela SAC e a outra pela tabela Price. Essas propostas possuem taxa de juros na modalidade prefixada iguais, além de prazos e valores também iguais. Desta forma, um profissional poderia informar ao Rafael que: I – Optando pela tabela SAC, a prestação inicial será maior e os valores pagos de juros serão decrescentes ao longo do tempo. II – Optando pela tabela Price, a prestação será constante e a amortização do principal será crescente ao longo do tempo. III – O Total de juros pagos será o mesmo, independente do sistema escolhido. Está correto o que se afirma em:",
+    "alternatives": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "correctAnswer": 1,
+    "explanation": null
+  },
+  {
+    "enunciado": "(Auditor – SEFAZ/AP 2022 – Fundação Carlos Chagas) Um imóvel é adquirido pelo valor de R$ 500.000,00, sendo que o comprador pagou 20% deste  valor  na  data  da  aquisição.  O  restante  deverá  ser  quitado  por  meio  de  100 prestações mensais e consecutivas, a uma taxa de juros mensal positiva i, vencendo a primeira prestação 1 mês após a data de aquisição. Sabendo-se que foi utilizado o sistema de amortização constante e que a 15ª prestação apresenta um valor igual a R$ 9.160,00, a penúltima prestação é igual a:",
+    "alternatives": [
+      "R$ 4.060,00",
+      "R$ 4.080,00",
+      "R$ 4.120,00",
+      "R$ 4.180,00"
+    ],
+    "correctAnswer": 2,
+    "explanation": null
+  },
+  {
+    "enunciado": "O dono de uma loja pode financiar uma mercadoria, cujo preço à vista é de R$ 1.200,00, em 10 prestações mensais, iguais e postecipadas de R$ 143,00, ou vender à vista, e aplicar em um fundo que rende uma taxa mensal constante, onde, após 10 meses, ele possua o montante de R$ 1.652,00. Neste caso, ele deve:",
+    "alternatives": [
+      "Vender a prazo, pois sua taxa de juros será de 3,25%.",
+      "Vender a prazo, pois sua taxa de juros será de 3,32%.",
+      "Vender à vista, pois sua taxa de juros será de 3,25%.",
+      "Vender à vista, pois sua taxa de juros será de 3,32%."
+    ],
+    "correctAnswer": 1,
+    "explanation": null
+  },
+  {
+    "enunciado": "A “RT Education S/A”, no final de 2021, recebeu uma proposta para realizar treinamentos  específicos  para  funcionários  do  segmento  private  das  instituições financeiras. Essa proposta foi de uma entrada de R$ 415.000,00 e mais 3 parcelas mensais iguais  e  sucessivas.  No entanto,  para que a  “RT Education S/A” possa realizar  este treinamento, ela deverá fazer um investimento a vista de R$ 1.600.000,00 na contratação de  profissionais  específicos.  Sabendo  que  o  custo  de  oportunidade  da  empresa  de educação  é  de  18%  ao  ano,  a  empresa  deve  aceitá-lo?",
+    "alternatives": [
+      "Deve aceitá-lo, pois o retorno do projeto é de R$ 3.925,93.",
+      "Deve aceitá-lo, pois o VPL do projeto é de R$ 26.201,94.",
+      "Deve aceitá-lo, pois terá um lucro de R$ 60.000,00.",
+      "Não deve aceitá-lo, pois seu VPL é negativo."
+    ],
+    "correctAnswer": 1,
+    "explanation": null
+  },
+  {
+    "enunciado": "Um projeto de investimento apresenta seus fluxos de caixa estimados para os próximos quatro anos, conforme o diagrama abaixo:",
+    "alternatives": [
+      "25,17% a.a.",
+      "23,66% a.a.",
+      "22,52% a.a.",
+      "20,09% a.a."
+    ],
+    "correctAnswer": 1,
+    "explanation": null
+  },
+  {
+    "enunciado": "(SP Parcerias / 2018 – Fundação Carlos Chagas) Na  análise  de  um  determinado  projeto,  estão  sendo  consideradas  as  seguintes informações: *  Taxa livre de risco: 7%. *  Taxa de retorno do mercado: 12%. *  Taxa de juros para capital de terceiros, antes dos impostos: 30%. *  Impostos: 40%. *   O investidor aceita utilizar como seu custo de oportunidade o retorno calculado, por CAPM, para atividades similares, que é de 15%. *  Capital de terceiros no total de R$ 500.000,00. *   Capital próprio no montante de R$ 500.000,00. É correto afirmar que o:",
+    "alternatives": [
+      "beta do projeto é de 1,8.",
+      "custo médio ponderado de capital é maior que 14%.",
+      "beta do projeto é menor que 1,5.",
+      "custo médio ponderado de capital é de 17,5%."
+    ],
+    "correctAnswer": 1,
+    "explanation": null
+  },
+  {
+    "enunciado": "(Economista – ARTESP/SP 2017 – Fundação Carlos Chagas) Considere  as  seguintes  conceituações  sobre  métodos  de  avaliação  de  orçamento  de capital: I  –  O Valor  Presente Líquido traz  a  valor  presente os  fluxos de caixa futuros do projeto, deduzindo o valor presente do custo do investimento. II – A Taxa Interna de Retorno Modificada é a taxa de desconto que considera os valores futuros das entradas de caixa compostas à taxa de juros livre de risco. III  –  A  aplicação  do  Payback  Descontado  considera  os  fluxos  de  caixa  descontados  pelo custo de capital do projeto. Está correto o que se afirma em:",
+    "alternatives": [
+      "I, II e III.",
+      "I, apenas.",
+      "I e III, apenas.",
+      "III, apenas."
+    ],
+    "correctAnswer": 2,
+    "explanation": null
+  },
+  {
+    "enunciado": "Uma  instituição  financeira  possui  os  seguintes  mecanismos  de acompanhamento  e  controle  para  fins  de  prevenção  a  lavagem  de  dinheiro  e  ao financiamento  do  terrorismo, I – a definição de processos, testes e trilhas de auditoria. II – a definição de métricas e indicadores adequados. III – a identificação e correção de eventuais deficiências. IV – o monitoramento do uso das redes sociais por seus clientes. Segundo  o  Banco  Central  do  Brasil,  são  obrigatórios  APENAS  os  mecanismos  de acompanhamento e controle",
+    "alternatives": ["II, III e IV", "I e IV", "II e III", "I, II e III"],
+    "correctAnswer": 3,
+    "explanation": null
+  },
+  {
+    "enunciado": "Um especialista em investimentos, que atua como gerente de private banking em uma instituição financeira, visitou seu cliente e obteve as seguintes informações sobre as operações I e II realizadas recentemente por intermédio de sua instituição: I – Compra de debêntures no valor de R$ 100.000,00 de uma empresa de médio porte, com remuneração equivalente a 60% do DI, com data de vencimento em 10 anos. II – Aquisição de uma participação em uma empresa, por R$ 40.000,00 e, após 30 dias, venda dessa participação a um terceiro por R$ 200.000,00. Esse  profissional  reportou  à  área  de  controles  internos  responsável  pela  análise  de operações suspeitas de lavagem de dinheiro da instituição as informações obtidas, após a visita.  Inexistindo  justificativa  adicional  para  as  condições  das  operações  I  e  II,  essa instituição  financeira:",
+    "alternatives": [
+      "Deverá comunicar I e II ao Banco Central do Brasil.",
+      "Deverá comunicar I e II ao Conselho de Controle de Atividades Financeiras(COAF).",
+      "Deverá comunicar apenas II ao Conselho de Controle de Atividades Financeiras(COAF)",
+      "Não deverá comunicar I e II à autoridade competente, mas manter o registro dessas operações por, no mínimo, 10 anos."
+    ],
+    "correctAnswer": 1,
+    "explanation": null
+  },
+  {
+    "enunciado": "Um corretor da bolsa de valores obteve uma informação de uma companhia que todavia não tinha sido divulgada no mercado financeiro. Ele sabe que esta informação irá impactar nos preços das ações desta empresa e recomenda a compra das ações para seus  amigos  e  familiares,  mas  não  compra  para  ele.  Desta  forma,  podemos  afirmar  que ele:",
+    "alternatives": [
+      "Cometeu o crime Insider Information.",
+      "Cometeu o crime Insider Trading.",
+      "Cometeu o crime Front Running.",
+      "Não cometeu nenhum crime, pois ele não adquiriu as ações para ele."
+    ],
+    "correctAnswer": 1,
+    "explanation": null
+  },
+  {
+    "enunciado": "Nicole  é  assessora  de  investimentos  e  está  vinculada  a  uma corretora (CTVM).  Certo  dia,  seu  cliente  solicitar  a  compra  de  ações  de  uma  determinada companhia, pois como ele é diretor desta empresa, ele comenta que o balanço irá vir muito melhor do que o esperado. Assim, antes de executar a compra do seu cliente, Nicole se antecipa e realiza a compra dessas mesmas ações para si, para amigos e familiares. Diante  dessas  informações,  podemos  afirmar  que  Nicole  e  o  cliente  praticaram, respectivamente:",
+    "alternatives": [
+      "Front running e Front running.",
+      "Front running e Insider trading.",
+      "Insider trading e Front running.",
+      "Insider trading e Insider trading."
+    ],
+    "correctAnswer": 3,
+    "explanation": null
+  },
+  {
+    "enunciado": "Em uma reunião com seu cliente Rafael, você coleta as seguintes informações da sua família: *  Imóvel residencial para moradia com valor R$ 2.220.000,00; *   Imóvel Comercial com valor de R$ 3.600.000,00, locado por R$ 200.000,00 líquido por ano; *  Casa na praia para veraneio com valor de R$ 1.200.000,00; *   Dois veículos da família no valor de R$ 100.000,00 cada que geram R$ 20.000,00 de despesas ao total por ano; *  Aplicação em Fundos DI com liquidez diária no valor de R$ 520.000,00; *  Aplicação em CRA com vencimento em 6 anos no valor de R$ 436.000,00; *  Aplicação em Debêntures com vencimento em 3 anos no valor de R$ 580.000,00; *   Aplicação em ações com valor de mercado de R$ 4.500.000,00 com dividendos de R$ 185.000,00 por ano; *  Aplicação anual de R$ 18.000,00 em PGBL, no qual possui saldo total de R$ 280.000,00; *  Apólice de seguro de vida de R$ 5.000.000,00 com prêmio anual de 14.000,00; *   Financiamento imobiliário de R$ 550.000,00 com despesas financeiras de R$ 65.000,00 por ano; *  Salário líquido anual de R$ 1.350.000,00; *  Gastos anuais com IPTU sobre todos os imóveis de R$ 150.000,00; *  Despesa anual com educação dos filhos no valor de R$ 190.000,00; *  Despesa anual com vestuários no valor de R$ 120.000,00; *  Despesa anual com alimentação no valor de R$ 80.000,00; *   Despesas anuais com cartão de crédito (exceto alimentação, educação e vestuário) em R$ 135.000,00. O índice de Poupança desta família é de:",
+    "alternatives": ["54%", "55%", "58%", "59%"],
+    "correctAnswer": 1,
+    "explanation": null
+  },
+  {
+    "enunciado": "Em uma reunião com seu cliente Rafael, você coleta as seguintes informações da sua família: *  Imóvel residencial para moradia com valor R$ 2.220.000,00; *   Imóvel Comercial com valor de R$ 3.600.000,00, locado por R$ 200.000,00 líquido por ano; *  Casa na praia para veraneio com valor de R$ 1.200.000,00; *   Dois veículos da família no valor de R$ 100.000,00 cada que geram R$ 20.000,00 de despesas ao total por ano; *  Aplicação em Fundos DI com liquidez diária no valor de R$ 520.000,00; *  Aplicação em CRA com vencimento em 6 anos no valor de R$ 436.000,00; *  Aplicação em Debêntures com vencimento em 3 anos no valor de R$ 580.000,00; *   Aplicação em ações com valor de mercado de R$ 4.500.000,00 com dividendos de R$ 185.000,00 por ano; *  Aplicação anual de R$ 18.000,00 em PGBL, no qual possui saldo total de R$ 280.000,00; *  Apólice de seguro de vida de R$ 5.000.000,00 com prêmio anual de 14.000,00; *   Financiamento imobiliário de R$ 550.000,00 com despesas financeiras de R$ 65.000,00 por ano; *  Salário líquido anual de R$ 1.350.000,00; *  Gastos anuais com IPTU sobre todos os imóveis de R$ 150.000,00; *  Despesa anual com educação dos filhos no valor de R$ 190.000,00; *  Despesa anual com vestuários no valor de R$ 120.000,00; *  Despesa anual com alimentação no valor de R$ 80.000,00; *   Despesas anuais com cartão de crédito (exceto alimentação, educação e vestuário) em R$ 135.000,00. O Índice de Cobertura mensal dessa família é aproximadamente de:",
+    "alternatives": ["8 meses", "9 meses", "13 meses", "101 meses"],
+    "correctAnswer": 0,
+    "explanation": null
+  },
+  {
+    "enunciado": "Considere o balanço patrimonial abaixo de uma família:",
+    "alternatives": [
+      "R$ 20.000,00 a R$ 80.000,00",
+      "R$ 60.000,00 a R$ 240.000,00",
+      "R$ 81.000,00 a R$ 324.000,00",
+      "R$ 141.000,00 a R$ 564.000,00"
+    ],
+    "correctAnswer": 2,
+    "explanation": null
+  },
+  {
+    "enunciado": "Considere as seguintes características sobre Leasing e CDC (Crédito Direto ao Consumidor): I – Durante a vigência do contrato das operações de Leasing ou das operações de Crédito Direto  ao  Consumidor,  é  permitida  ao  devedor  antecipar  pagamentos  a  qualquer momento, sem descaracterização da operação. II – É cobrado ISS (Imposto sobre Serviços) sobre operações de leasing e IOF (Imposto sobre Operações Financeiras) sobre financiamentos via CDC. III  –  Despesas  referentes  às  contraprestações  de  operações  de  Leasing  poderão  ser consideradas despesas na base de cálculo do Imposto de Renda, apenas para as empresas enquadradas pelo Lucro Real. Está correto o que se afirma em:",
+    "alternatives": [
+      "I, apenas.",
+      "II, apenas.",
+      "II e III, apenas.",
+      "I, II e III"
+    ],
+    "correctAnswer": 2,
+    "explanation": null
+  },
+  {
+    "enunciado": "Maria está acumulando recursos para realizar o seu sonho de adquirir seu próprio imóvel. Ela já tem boa parte do valor do apartamento e deseja realizar a sua aquisição.  Diante  disso,  ela  vai  ao  banco  fazer  um  financiamento  imobiliário  para  o restante  do  valor.  Desta  forma,  o  profissional  da  instituição  financeira  informa  que  ela terá que contratar um seguro:",
+    "alternatives": [
+      "Residencial",
+      "Prestamista",
+      "Acidentes Pessoais (AP)",
+      "Diária de Internação Hospitalar (DIH)"
+    ],
+    "correctAnswer": 1,
+    "explanation": null
+  },
+  {
+    "enunciado": "Um cliente  casado  com dois  filhos  possui  uma  dívida  de  R$  185  mil  de  um imóvel e contratou um seguro habitacional. A parte da dívida dele é 60% e da esposa 40%. Ele morre, com relação a dívida:",
+    "alternatives": [
+      "a esposa ficará com 40% da dívida",
+      "a esposa ficará com 100% da dívida",
+      "fica quitada",
+      "fica com a mulher e os filhos"
+    ],
+    "correctAnswer": 0,
+    "explanation": null
+  },
+  {
+    "enunciado": "Em relação a Taxa de Administração de Consórcios, a sua cobrança ocorre sobre: I – Carta de crédito II – Fundo de Reserva III – Seguro Está correto o que se afirma em:",
+    "alternatives": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III."
+    ],
+    "correctAnswer": 0,
+    "explanation": null
+  },
+  {
+    "enunciado": "Sobre o crédito consignado, podemos afirmar que:",
+    "alternatives": [
+      "Possui regras especiais, em comparação ao crédito pessoal comum.",
+      "Possui mais risco para a instituição financeira do que um empréstimo comum, pois não possui garantias.",
+      "Está disponível apenas para servidores públicos da ativa e pensionistas.",
+      "É um tipo de crédito recomendado apenas em situações emergenciais, vide que seus juros são comparados ao do cheque-especial."
+    ],
+    "correctAnswer": 0,
+    "explanation": null
+  }
+]
